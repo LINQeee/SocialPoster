@@ -1,0 +1,19 @@
+body {
+    font-family: roboto, "Noto Sans Myanmar UI", arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(32, 33, 36);
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 16px;
+}
